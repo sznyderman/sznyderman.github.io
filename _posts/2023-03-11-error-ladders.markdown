@@ -27,7 +27,7 @@ It helps you think about the purpose of exceptions so that you can write better 
 
 There are four steps on the ladder:
 * WHAT went wrong
-* WHY it happend
+* WHY it happened
 * HOW to fix it
 * FIX it automatically
 
