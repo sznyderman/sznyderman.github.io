@@ -1,0 +1,106 @@
+---
+layout: post
+title:  "The 1.01x Mindset"
+date:   2026-03-27
+categories: Productivity
+---
+
+I saw an ad on the subway telling me that I should be using AI to
+prepare my presentations. I see online ads and posts about life and work
+hacks that will increase my productivity. There's a never ending stream
+of AI tips and tricks that I should have adopted yesterday. We are
+bombarded with messages telling us that we should be moving exponentially
+faster. 
+
+That's not new. Here's a [pressure cooker](https://idn.duke.edu/ark:/87924/r4df6mr6r)
+that will save you time and money [^1]. Here's an [advertising strategy](https://idn.duke.edu/ark:/87924/r4rf5n62s)
+that expanded a business from one floor to eight floors [^2]. Those incredible
+opportunities are both more than 100 years old. In the engineering world, the
+underlying idea of superstars, ninjas, and rockstars has been
+around for decades [^3].
+
+A 10x engineer is an engineer who can deliver ten times the impact of
+the average engineer. By definition, most of us are not 10x engineers;
+some of us have to be average. The widespread discussion of the 10x engineer
+implies a goal that we should all become one.
+
+It's impossible for all of us to reach that goal. We will be thwarted by math.
+If everyone's productivity goes up by 10x, then 10x is the new average.
+AI has intensified the race to loftier productivity heights. If
+next year, everyone is 10x of where they were last year, then those long
+nights and intense days won't get you any farther ahead. But if you
+don't stretch to extremes, then you risk being left behind. Will AI
+make everyone 10x? I won't answer that question. But I will let you
+know that when I googled "Can AI make engineers 10x", the AI overview told
+me that it can. The first three page results told me that it won't.
+And the remaing search results were mixed.
+
+Rather than focusing on how you can (or can't) achieve a 10x improvement
+with AI, let's talk about the 1.01x mindset. A daily focus on 10x improvements
+can be overhwelming. Over-indexing on huge performance boosts can become
+counter-productive if we don't give ourselves space to be creative or
+to explore ideas that don't work. Charles Darwin only worked four or five
+hours each day [^4]. His impact was greater than mine in spite of my longer hours.
+Instead of stressing about being 10x of who you are today, aim to be 1.01x.
+You can do this with AI. You can do it without AI. The approach is AI agnostic.
+
+Large improvements take time. Google's stock has had famously good growth.
+Imagine going back to 2004 and buying Google at the IPO. If you bought $1,000
+of Google, it would be worth more than $100,000 today [^5]. That's a lot of money!
+But that big return took time. To reach 10x of your initial investment, you
+had to wait nine years. And then another 12 years for the next 10x. Looking
+back at around twenty years of stock growth sounds like an eternity. It isn't.
+The average American retires in their mid sixties [^6]. If you start working in your
+twenties, you career will likely extend more than double that timeline.
+
+While the idea of waking up one day and being 10x would be
+ideal, it isn't realistic. Improvements tend to slowly accumulate. And
+while we may see occasional bursts of gain, they are usually the realization
+of hard earned potential energy that we have slowly and deliberately 
+contributed to for a long time. Gen AI's impact feels new and sudden.
+Its roots are in machine learning. The first machine learning algorithm
+was developed in 1952 [^7]. So if we think about Gen AI as having started 
+with machine learning (which also didn't start in a vacuum), then we
+realize that the cool new Claude Code release was 64 years in the making.
+
+So what does that mean for our personal journeys? In order to reach 10x
+we need to make many incremental changes. That's where the 1.01x mindset
+comes in. As you reach for big improvements, celebrate the small ones.
+Try to be 1.01x every day because those small wins add up. Imagine if you
+improved by 1% every day. If you took five weeks off each year for holidays
+and vacations, you would improve by 10.36x at the end of the year.
+
+1.01x sounds small. But doing it daily is hugely ambitious. You won't be
+able to do this for 40 years. There will be days that you miss the mark.
+Sometimes your idea won't pan out. Sometimes you'll be swamped. Sometimes
+you'll have a bad day. That's okay. Reset the next day and do something
+small that moves you forward. Sometimes you'll achieve a lot more than
+1.01x; sometimes you won't. What keeps you improving is a mindset
+that every day is an opportunity to make small incremental progress.
+Celebrating the small wins (that add up to big wins) keeps you motivated.
+
+If you mark a child's height against the wall each year, you'll observe
+tremendous growth. If you mark their height every day, it will look like
+nothing is happening. In fact, since height varies during the day, you
+could discover the child is shrinking! The overall trend becomes hidden
+by daily fluctuations if you don't zoom out.
+
+Don't forget to step back periodically and observe
+your larger journey. The 1.01x mindset is about your career journey,
+not just today's productivity. Step back and look at your monthly
+and yearly growth. Seeing the big picture will keep you motivated.
+It also gives you a chance to feel good about your hard work and 
+accomplishments.
+
+A journey of a thousand miles begins with a single step. Don't get
+overwhelmed on your career journey, take a 1.01x step today.
+
+---
+
+[^1]: ["Kook Kwick" Pressure Cooker Recipes](https://idn.duke.edu/ark:/87924/r4df6mr6r), Sears, Roebuck & Co., circa 1910 to circa 1919, retreived 29 March 2026
+[^2]: [Are there definite limits to my market?](https://idn.duke.edu/ark:/87924/r4rf5n62s), J. Walter Thompson Company, Cutex, 1917, retreived 29 March 2026.
+[^3]: [What is 10x Engineer? Tech nomenclature gone wild](https://www.omnesgroup.com/what-is-10x-engineer/), Omnes Group, retreieved 29 March 2026
+[^4]: Hosie, Rachel, [Why we should work four-hour days like Darwin and Dickens](https://www.the-independent.com/life-style/four-hour-work-days-charles-darwin-dickens-why-better-better-job-performance-a7656266.html), The Guardian, 29 March 2017, retreived 29 March 2026
+[^5]: [MarketWatch](https://www.marketwatch.com/investing/stock/GOOGL/download-data?startDate=08/1/2004&endDate=3/29/2026), retreived 29 March 2026
+[^6]: Caporal, Jack, [What Is the Average Retirement Age in the U.S.?](https://www.fool.com/research/average-retirement-age/), The Motley Fool, updated 20 October 2025, retrieved 29 March 2026.
+[^7]: Foote, Keith D, [A Brief History of Generative AI](https://www.dataversity.net/articles/a-brief-history-of-generative-ai/), DATAVERSITY, 10 September 2025, retreived 29 March 2026.
